@@ -1,0 +1,9 @@
+#+title: Andresa Valério's Blog
+
+* Home
+Welcome to my page! My name is *Andresa Valério*, but you can call me *Annie* if you find my name hard to pronounce. I’m a 🇧🇷 Brazilian software engineer interested in Python, Web Development, Programming Paradigms and more.
+
+** Important Links
+- [[https://github.com/andresavalerio][GitHub]]
+- [[https://www.linkedin.com/in/andresavalerio/?locale=en_US][LinkedIn]]
+- [[mailto:andresavalerio@gmail.com][Email]]
